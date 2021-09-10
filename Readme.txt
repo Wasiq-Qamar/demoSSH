@@ -1,1 +1,1 @@
-before cloning text
+after cloning text
